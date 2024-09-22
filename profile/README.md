@@ -25,3 +25,4 @@ To provide everyone with useful software solutions (and make lots of money, but 
 ## 🏗️ Our work
 
 - [Cat Ears Browser Extension](https://github.com/Y-J-Labs/cat-ears-extension) - A browser extension that adds cat ears to the logo of major websites
+- [Trip Visualizer](https://github.com/yandjlabs/trip-visualizer) - A website that lets you intuitively plan your initineary
